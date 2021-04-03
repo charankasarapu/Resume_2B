@@ -1,10 +1,10 @@
 # Charan Kasarapu
 =================
 ### Personal details
--Email: **charankasarapu2002@gmail.com**
--Phone: **6301548086**
--DOB: **21-01-2002**
--Address: **vijayawada**
+ -Email: **charankasarapu2002@gmail.com**
+ -Phone: **6301548086**
+ -DOB: **21-01-2002**
+ -Address: **vijayawada**
 
 ### Education Details
 -B.Tech
